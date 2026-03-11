@@ -1,0 +1,36 @@
+{
+  "ccf33ad2-407f-4542-a198-06c7d49747b6": {
+    "id": "ccf33ad2-407f-4542-a198-06c7d49747b6",
+    "name": "DocScanner 15 Feb 2026 5-41\u202fpm_compressed.pdf",
+    "type": "Unknown",
+    "status": "Success",
+    "date": "Mar 12, 2026 00:10",
+    "confidence": 0.0,
+    "file_path": "uploads\\ccf33ad2-407f-4542-a198-06c7d49747b6.pdf",
+    "extraction": {
+      "document_type": "Unknown",
+      "overall_confidence": 0.0,
+      "ai_insight": "Document is a scanned/image-based PDF and text extraction was not possible.",
+      "fields": [
+        {
+          "id": "1",
+          "label": "filename",
+          "value": "DocScanner 15 Feb 2026 5-41\u202fpm_compressed.pdf",
+          "confidence": 100.0,
+          "icon": "description",
+          "manual_check": false
+        },
+        {
+          "id": "2",
+          "label": "document_type",
+          "value": "Unknown",
+          "confidence": 100.0,
+          "icon": "badge",
+          "manual_check": false
+        }
+      ]
+    },
+    "approved": true,
+    "approved_at": "Mar 12, 2026 00:10"
+  }
+}
